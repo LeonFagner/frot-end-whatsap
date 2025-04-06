@@ -7,9 +7,9 @@ Este projeto é um **clone simplificado do WhatsApp**, desenvolvido como parte d
 ## 🚀 Tecnologias Utilizadas
 
 - React
-- **Node.js** (Back-End)
+- **Node.js** (Back-end)
 - **Socket.io** (para comunicação em tempo real, se aplicável)
-- **Express** (Back-End)
+- **Express** (Back-end)
   
 
 ---
